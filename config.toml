@@ -2,6 +2,7 @@ baseURL = "https://hxie13.github.io/cppLearn"
 languageCode = "en-us"
 title = "Shui Lian Cave"
 theme = "dream"
+author = "LBXX2020"
 
 [params]
   background = "#f7f7f7"
