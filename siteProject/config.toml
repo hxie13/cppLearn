@@ -1,0 +1,4 @@
+baseURL = "https://hxie13.github.io/cppLearn"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "dream"
