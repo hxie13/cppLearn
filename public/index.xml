@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shui Lian Cave</title>
+    <link>https://hxie13.github.io/cppLearn/</link>
+    <description>Recent content on Shui Lian Cave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Feb 2021 15:13:14 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>北斗3广播星历精度评估</title>
+      <link>https://hxie13.github.io/cppLearn/posts/%E5%8C%97%E6%96%973%E5%B9%BF%E6%92%AD%E6%98%9F%E5%8E%86%E7%B2%BE%E5%BA%A6%E8%AF%84%E4%BC%B0/</link>
+      <pubDate>Thu, 18 Feb 2021 15:13:14 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/posts/%E5%8C%97%E6%96%973%E5%B9%BF%E6%92%AD%E6%98%9F%E5%8E%86%E7%B2%BE%E5%BA%A6%E8%AF%84%E4%BC%B0/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PSO_fuzzylogic</title>
+      <link>https://hxie13.github.io/cppLearn/posts/pso_fuzzylogic/</link>
+      <pubDate>Thu, 18 Feb 2021 11:02:52 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/posts/pso_fuzzylogic/</guid>
+      <description>&lt;h1 id=&#34;titlea-new-hybrid-particle-swarm-optimization-and-genetic-algorithm-method-controlled-by-fuzzy-logic&#34;&gt;Title:A new hybrid particle swarm optimization and Genetic algorithm method controlled by fuzzy logic&lt;/h1&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The performance of PSO can be improved by minimizing the possibility of premature convergence in a local minimum.&amp;lsquo;Modifying some of the particle with crossover and mutation operators used in genetic algorithms&amp;rsquo;.But, the impact of GA operator on the optimization process depends on the current state of the PSO algorithm.&lt;/li&gt;
+&lt;li&gt;Propose a neuro-fuzzy system to dynamically determine the strengh with which these operators will affect the process of finding the optimal solution.
+Cut out summary from your post content here.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://hxie13.github.io/cppLearn/posts/hello/</link>
+      <pubDate>Wed, 10 Feb 2021 16:34:40 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/posts/hello/</guid>
+      <description>Hugo static web setup + Github Pages  :smile: It is a new attempt to cpp. Keep on!  </description>
+    </item>
+    
+  </channel>
+</rss>
