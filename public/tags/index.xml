@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Shui Lian Cave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2021 15:13:14 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 16:57:39 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Based on EDA and Levy flight</title>
+      <link>https://hxie13.github.io/cppLearn/tags/based-on-eda-and-levy-flight/</link>
+      <pubDate>Thu, 18 Feb 2021 16:57:39 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/tags/based-on-eda-and-levy-flight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Clustering Algorithm</title>
+      <link>https://hxie13.github.io/cppLearn/tags/improved-clustering-algorithm/</link>
+      <pubDate>Thu, 18 Feb 2021 16:57:39 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/tags/improved-clustering-algorithm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tag1</title>
       <link>https://hxie13.github.io/cppLearn/tags/tag1/</link>
@@ -26,11 +44,29 @@
     </item>
     
     <item>
-      <title>tag2</title>
-      <link>https://hxie13.github.io/cppLearn/tags/tag2/</link>
+      <title>Fuzzy Logic</title>
+      <link>https://hxie13.github.io/cppLearn/tags/fuzzy-logic/</link>
       <pubDate>Thu, 18 Feb 2021 11:02:52 +0800</pubDate>
       
-      <guid>https://hxie13.github.io/cppLearn/tags/tag2/</guid>
+      <guid>https://hxie13.github.io/cppLearn/tags/fuzzy-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO</title>
+      <link>https://hxie13.github.io/cppLearn/tags/pso/</link>
+      <pubDate>Thu, 18 Feb 2021 11:02:52 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/tags/pso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>https://hxie13.github.io/cppLearn/tags/general/</link>
+      <pubDate>Sun, 07 Feb 2021 11:23:33 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/tags/general/</guid>
       <description></description>
     </item>
     

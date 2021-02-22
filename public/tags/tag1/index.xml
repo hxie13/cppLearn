@@ -16,20 +16,5 @@
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>PSO_fuzzylogic</title>
-      <link>https://hxie13.github.io/cppLearn/posts/pso_fuzzylogic/</link>
-      <pubDate>Thu, 18 Feb 2021 11:02:52 +0800</pubDate>
-      
-      <guid>https://hxie13.github.io/cppLearn/posts/pso_fuzzylogic/</guid>
-      <description>&lt;h1 id=&#34;titlea-new-hybrid-particle-swarm-optimization-and-genetic-algorithm-method-controlled-by-fuzzy-logic&#34;&gt;Title:A new hybrid particle swarm optimization and Genetic algorithm method controlled by fuzzy logic&lt;/h1&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The performance of PSO can be improved by minimizing the possibility of premature convergence in a local minimum.&amp;lsquo;Modifying some of the particle with crossover and mutation operators used in genetic algorithms&amp;rsquo;.But, the impact of GA operator on the optimization process depends on the current state of the PSO algorithm.&lt;/li&gt;
-&lt;li&gt;Propose a neuro-fuzzy system to dynamically determine the strengh with which these operators will affect the process of finding the optimal solution.
-Cut out summary from your post content here.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
   </channel>
 </rss>

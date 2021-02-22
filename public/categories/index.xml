@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Shui Lian Cave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2021 15:13:14 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 16:57:39 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper Notes</title>
+      <link>https://hxie13.github.io/cppLearn/categories/paper-notes/</link>
+      <pubDate>Thu, 18 Feb 2021 16:57:39 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/categories/paper-notes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>category1</title>
       <link>https://hxie13.github.io/cppLearn/categories/category1/</link>
@@ -17,11 +26,11 @@
     </item>
     
     <item>
-      <title>paper notes</title>
-      <link>https://hxie13.github.io/cppLearn/categories/paper-notes/</link>
-      <pubDate>Thu, 18 Feb 2021 11:02:52 +0800</pubDate>
+      <title>Home</title>
+      <link>https://hxie13.github.io/cppLearn/categories/home/</link>
+      <pubDate>Sun, 07 Feb 2021 11:23:33 +0800</pubDate>
       
-      <guid>https://hxie13.github.io/cppLearn/categories/paper-notes/</guid>
+      <guid>https://hxie13.github.io/cppLearn/categories/home/</guid>
       <description></description>
     </item>
     

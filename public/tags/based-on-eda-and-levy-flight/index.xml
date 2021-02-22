@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Based on EDA and Levy flight on Shui Lian Cave</title>
+    <link>https://hxie13.github.io/cppLearn/tags/based-on-eda-and-levy-flight/</link>
+    <description>Recent content in Based on EDA and Levy flight on Shui Lian Cave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Feb 2021 16:57:39 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/tags/based-on-eda-and-levy-flight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CombinationWithEdaAndLevy</title>
+      <link>https://hxie13.github.io/cppLearn/posts/combinationwithedaandlevy/</link>
+      <pubDate>Thu, 18 Feb 2021 16:57:39 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/posts/combinationwithedaandlevy/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A module for writing an application of advanced EAs.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
