@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/p/about/</loc>
+    <loc>https://hxie13.github.io/cppLearn/p/about/</loc>
     <lastmod>2021-02-23T16:19:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://hxie13.github.io/cppLearn/</loc>
     <lastmod>2021-02-23T16:19:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://hxie13.github.io/cppLearn/post/</loc>
     <lastmod>2021-02-23T16:19:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://hxie13.github.io/cppLearn/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://hxie13.github.io/cppLearn/tags/</loc>
   </url>
   
 </urlset>

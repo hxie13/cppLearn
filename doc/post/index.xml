@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Example Site</title>
-    <link>https://example.com/post/</link>
+    <link>https://hxie13.github.io/cppLearn/post/</link>
     <description>Recent content in Posts on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2021 16:19:58 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 16:19:58 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/p/about/</link>
+      <link>https://hxie13.github.io/cppLearn/p/about/</link>
       <pubDate>Tue, 23 Feb 2021 16:19:58 +0800</pubDate>
       
-      <guid>https://example.com/p/about/</guid>
-      <description>** It is a brief welcome page. **</description>
+      <guid>https://hxie13.github.io/cppLearn/p/about/</guid>
+      <description>It is a brief welcome page.</description>
     </item>
     
   </channel>
