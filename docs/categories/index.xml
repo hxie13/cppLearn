@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Categories on Xie Hui</title>
     <link>https://hxie13.github.io/cppLearn/categories/</link>
     <description>Recent content in Categories on Xie Hui</description>
@@ -25,5 +26,12 @@
       <description></description>
     </item>
     
+=======
+    <title>Categories on Example Site</title>
+    <link>https://hxie13.github.io/cppLearn/categories/</link>
+    <description>Recent content in Categories on Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hxie13.github.io/cppLearn/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
   </channel>
 </rss>

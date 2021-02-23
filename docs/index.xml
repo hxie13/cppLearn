@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
+<<<<<<< HEAD
         <title>Xie Hui</title>
         <link>https://hxie13.github.io/cppLearn/</link>
         <description>Recent content on Xie Hui</description>
@@ -13,6 +14,20 @@
         
         <guid>https://hxie13.github.io/cppLearn/posts/about/</guid>
         <description>&lt;h1 id=&#34;a-brief-introduction-of-this-series-of-post&#34;&gt;A brief introduction of this series of post.&lt;/h1&gt;
+=======
+        <title>Example Site</title>
+        <link>https://hxie13.github.io/cppLearn/</link>
+        <description>Recent content on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 23 Feb 2021 16:19:58 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://hxie13.github.io/cppLearn/p/about/</link>
+        <pubDate>Tue, 23 Feb 2021 16:19:58 +0800</pubDate>
+        
+        <guid>https://hxie13.github.io/cppLearn/p/about/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;It is a brief welcome page.&lt;/strong&gt;&lt;/p&gt;
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
 </description>
         </item>
         

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Tags on Xie Hui</title>
     <link>https://hxie13.github.io/cppLearn/tags/</link>
     <description>Recent content in Tags on Xie Hui</description>
+=======
+    <title>Tags on Example Site</title>
+    <link>https://hxie13.github.io/cppLearn/tags/</link>
+    <description>Recent content in Tags on Example Site</description>
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hxie13.github.io/cppLearn/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

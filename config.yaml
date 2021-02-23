@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 baseurl: https://hxie13.github.io/cppLearn/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: Xie Hui
+=======
+baseurl: https://hxie13.github.io/cppLearn
+languageCode: en-us
+theme: hugo-theme-stack
+paginate: 5
+title: Example Site
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -20,7 +28,11 @@ permalinks:
 
 params:
     mainSections:
+<<<<<<< HEAD
         - posts
+=======
+        - post
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
     featuredImageField: image
     rssFullContent: true
     favicon:
@@ -35,6 +47,7 @@ params:
 
     sidebar:
         emoji: 🍥
+<<<<<<< HEAD
         subtitle: keep study, keep smile
         avatar:
             local: true
@@ -42,6 +55,15 @@ params:
 
     article:
         math: true
+=======
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        avatar:
+            local: true
+            src: img/avatar.png
+
+    article:
+        math: false
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
         license:
             enabled: true
             default: Licensed under CC BY-NC-SA 4.0
@@ -82,9 +104,15 @@ params:
 
     defaultImage:
         opengraph:
+<<<<<<< HEAD
             enabled: true
             local: true
             src: img/avatar.png
+=======
+            enabled: false
+            local: false
+            src:
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
 
     colorScheme:
         # Display toggle
@@ -103,7 +131,11 @@ menu:
     main:
         - identifier: home
           name: Home
+<<<<<<< HEAD
           url: home
+=======
+          url: /
+>>>>>>> 1e709297317f4256503b907649b6351089ce62a3
           weight: -100
           pre: home
 
