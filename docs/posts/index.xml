@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Xie Hui</title>
+    <link>https://hxie13.github.io/cppLearn/posts/</link>
+    <description>Recent content in Posts on Xie Hui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2021 20:10:36 +0800</lastBuildDate><atom:link href="https://hxie13.github.io/cppLearn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hxie13.github.io/cppLearn/posts/about/</link>
+      <pubDate>Tue, 23 Feb 2021 20:10:36 +0800</pubDate>
+      
+      <guid>https://hxie13.github.io/cppLearn/posts/about/</guid>
+      <description>A brief introduction of this series of post. </description>
+    </item>
+    
+  </channel>
+</rss>
